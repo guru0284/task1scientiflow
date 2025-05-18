@@ -1,0 +1,22 @@
+Commands to setup environment and run:
+
+1.	Install Prerequisites: 
+     python –version
+
+2.	Install the Python Extension in VS Code
+
+3.	Create Your Project Folder:
+    mkdir scientiflow_gui 
+    cd scientiflow_gui
+
+4.	Create a Virtual Environment:
+     python -m venv venv
+    .\venv\Scripts\activate
+
+5.	Select the Python Interpreter
+
+6.	Install Required Packages:
+     pip install scientiflow-cli 
+     pip install tk
+7.	Run Your Python Code:
+     python main.py
